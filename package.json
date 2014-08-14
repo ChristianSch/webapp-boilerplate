@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ChristianSch/webapp-boilerplate"
   },
   "author": "Christian Schulze",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/ChristianSch/webapp-boilerplate/issues"
   },
   "homepage": "",
   "devDependencies": {
