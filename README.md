@@ -2,6 +2,7 @@ Webapp Boilerplate
 ==================
 
 My ready-to-go boilerplate for new webapps.
+
 [![Build Status](https://travis-ci.org/ChristianSch/webapp-boilerplate.svg?branch=master)](https://travis-ci.org/ChristianSch/webapp-boilerplate)
 [![devDependency Status](https://david-dm.org/ChristianSch/webapp-boilerplate/dev-status.svg?branch=master)](https://david-dm.org/ChristianSch/webapp-boilerplate#info=devDependencies)
 
