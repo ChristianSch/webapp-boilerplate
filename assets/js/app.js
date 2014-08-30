@@ -3,8 +3,9 @@
 
 angular.module('myApp', [
     'ui.bootstrap',
-    'myApp.filters',
-    'myApp.services',
+    'myApp.constants',
     'myApp.controllers',
-    'myApp.values'
+	'myApp.directives',
+    'myApp.filters',
+    'myApp.services'
 ]);
